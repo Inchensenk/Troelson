@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncDelegateReview", "Troelson\SyncDelegateReview.csproj", "{20536C8C-FD5C-42F1-8526-41E497DE1611}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDelegate", "AsyncDelegate\AsyncDelegate.csproj", "{E3BB663D-289B-4DF8-A720-05025449A60F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20536C8C-FD5C-42F1-8526-41E497DE1611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20536C8C-FD5C-42F1-8526-41E497DE1611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20536C8C-FD5C-42F1-8526-41E497DE1611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BB663D-289B-4DF8-A720-05025449A60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BB663D-289B-4DF8-A720-05025449A60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BB663D-289B-4DF8-A720-05025449A60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BB663D-289B-4DF8-A720-05025449A60F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
