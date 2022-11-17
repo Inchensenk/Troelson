@@ -1,4 +1,5 @@
-﻿/*695*/
+﻿
+/*695*/
 namespace AsyncCallbackDelegate
 {
     public delegate int BinaryOp(int x, int y);
